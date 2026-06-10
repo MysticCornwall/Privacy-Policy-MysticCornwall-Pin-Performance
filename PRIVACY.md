@@ -9,4 +9,4 @@ MysticCornwall Pin Performance is an internal, single-user analytics tool used e
 - **Storage**: metrics are stored in a private database accessible only to the account owner.
 - **Sharing**: data is never sold, shared, or disclosed to third parties.
 - **Scopes**: the app uses read-only Pinterest API scopes (`pins:read`, `boards:read`).
-- **Contact**: charles.2.wykerslooth@gmail.com
+- **Contact**: angreskovamartinamarta@gmail.com
